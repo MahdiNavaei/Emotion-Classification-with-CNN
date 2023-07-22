@@ -33,6 +33,6 @@ YouTube Tutorial:
 
 A comprehensive video tutorial explaining the entire project, including data preprocessing, model creation, training, and evaluation, is available on my YouTube channel. Viewers can follow along with the step-by-step guide to understand the process better.
 
-https://www.youtube.com/channel/UCAa8irzq_P3rgsoo-Nfil1w
+https://www.youtube.com/watch?v=LeQj2Dp_tRE&t=1073s
 
 Feel free to explore the project, experiment with different architectures or datasets, and provide feedback or suggestions for further improvements. Happy coding!
